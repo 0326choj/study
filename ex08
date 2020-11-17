@@ -1,0 +1,2 @@
+ find . -name "*~" -o "#*#" -print -delete > clean
+<확인 필요 : find: paths must precede expression: `#*#'>
